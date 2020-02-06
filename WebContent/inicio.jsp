@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Início</title>
+<title>SGL - Sistema de Gerenciamento de Laboratórios</title>
 </head>
 <body>
 <form action="${linkEntradaServlet}" method="post">
